@@ -1,0 +1,28 @@
+{
+  "date": "2026-09-09T06:23:44.524Z",
+  "checks": [
+    "Dashboard: seven programs and ten completed distributions",
+    "Local images loaded",
+    "Pagination covers all 12 reports",
+    "Combined program, status and city filters",
+    "Filter state survives reload in URL",
+    "Search by report ID, empty state, and reset",
+    "Date period filter",
+    "CSV download contains exactly the two filtered records and demo label",
+    "Saved reports persist across reload",
+    "Share copies the exact detail link",
+    "Gallery opens, advances with keyboard and closes with Escape",
+    "Removing a saved report shows helpful empty state",
+    "Details for all seven programs and planned distribution timeline",
+    "Invalid report recovery",
+    "Map city selection and city report navigation",
+    "FAQ accordion",
+    "Print includes all filtered pages, then restores pagination",
+    "No horizontal overflow across 35 viewport/route combinations",
+    "Mobile navigation opens, closes after selection, and hides closed links from keyboard",
+    "Reduced-motion preference respected",
+    "No JavaScript runtime errors"
+  ],
+  "passed": 21,
+  "errors": []
+}

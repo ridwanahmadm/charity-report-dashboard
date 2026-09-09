@@ -1,0 +1,28 @@
+{
+  "date": "2026-09-09T07:19:55.627Z",
+  "passed": 21,
+  "checks": [
+    "Public landing page replaces account dashboard, with no login",
+    "Supplied official light/dark logos and local images load",
+    "Seven program tabs and bidirectional wrapping carousel",
+    "Program cards filter the public activity reports",
+    "Show more and show less cover all 12 activities",
+    "Report accordion shows one activity and removes collapsed controls from keyboard",
+    "Combined city/program/month filters persist in URL after reload",
+    "Search empty state, disabled empty export and reset",
+    "CSV contains the two filtered public aggregates and no donor fields",
+    "Public activity detail is aggregate-only and directs private details to Siiru App",
+    "Public report gallery supports keyboard, return navigation and app handoff",
+    "App buttons use official Siiru App Store and Google Play URLs",
+    "Direct public report links and scheduled status, Escape dismissal",
+    "Invalid activity recovery",
+    "FAQ accordion opens without authentication",
+    "No horizontal overflow at seven widths, 320px to 1440px",
+    "Mobile menu, native focus trap and anchor navigation",
+    "Public gallery navigation and focus restoration",
+    "Reduced-motion removes animation",
+    "Scroll reveal activates for visible sections",
+    "No JavaScript runtime errors"
+  ],
+  "errors": []
+}
